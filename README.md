@@ -86,7 +86,9 @@ http://localhost:8501
 ```
 # 📸 Exemplo do Dashboard
 
-(Aqui você pode colocar um print igual ao que me mandou)
+![Dashboard](image/dashboard.png)
+![Dashboard](image/grafico.png)
+![Dashboard](image/tabela.png)
 
 # 💡 Insights
 
