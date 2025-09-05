@@ -79,7 +79,7 @@ http://localhost:8501
 
 # 📂 Estrutura do Projeto
 ```
-├── dashboard.py          # Código principal do dashboard
+├── app.py          # Código principal do dashboard
 ├── requirements.txt      # Dependências do projeto
 └── README.md             # Documentação
 ```
