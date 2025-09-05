@@ -52,8 +52,7 @@ O dashboard foi construído em Python, utilizando as bibliotecas Streamlit, Pand
 
 1. Clone este repositório:
 ```
-git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
-cd SEU_REPOSITORIO
+git clone https://github.com/michaelazev/Dashboard-dados
 ```
 
 2. Crie e ative um ambiente virtual (opcional, mas recomendado):
@@ -70,7 +69,7 @@ pip install -r requirements.txt
 
 4. Rode o Streamlit:
 ```
-streamlit run dashboard.py
+streamlit run app.py
 ```
 
 5. Acesse no navegador:
